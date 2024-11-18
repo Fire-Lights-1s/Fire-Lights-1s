@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />&nbsp
 </div>
 <br>
-
+<h4 align="center">🤔 kownledge</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
@@ -51,10 +51,21 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 <br>
+
+<table align="center">
+  <tr>
+    <td>
+      공부했던 메모
+    </td>
+    <td>
+      <a href="https://github.com/Fire-Lights-1s/memo">obsidian memo github</a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fire-Lights-1s&layout=compact" />&nbsp
 </div>
-
 <!--
 **Fire-Lights-1s/Fire-Lights-1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
